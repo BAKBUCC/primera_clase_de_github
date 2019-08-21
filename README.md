@@ -1,2 +1,3 @@
 # primera_clase_de_github
-CCOMP2-1
+CCOMP2-1 "hola"
+
